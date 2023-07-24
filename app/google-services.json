@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525162539444",
+    "project_id": "farm-freshzone-d78c0",
+    "storage_bucket": "farm-freshzone-d78c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525162539444:android:051504d016bc9075b2eae1",
+        "android_client_info": {
+          "package_name": "com.mishalpandey.farmfreshzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525162539444-1hhkcuf34scq3fsvvtdod27333k63uh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5f35DEfsghLINvDSnQRCMYxCq0kZUbd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525162539444-1hhkcuf34scq3fsvvtdod27333k63uh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
